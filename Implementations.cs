@@ -197,7 +197,6 @@ namespace SortAnalysis
             if (array == null) return;
 
             // Save the location of the last swap so that the sorted part will not be recompared.
-
             // First bubble loop
             for (int sortedAfter = array.Length, lastComparison = 0; sortedAfter != 0; sortedAfter = lastComparison, lastComparison = 0)
                 // Second bubble loop
