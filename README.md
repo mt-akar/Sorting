@@ -6,8 +6,9 @@ Language: C#
 
 ## Algorithms
 
-Not complete list
- - Shell sort
- - Merge Sort (4 versions)
- - Buble sort
- - ...
+ - Insertion Sort
+ - Buble Sort
+ - Merge Sort (MT versions)
+ - Quick Sort
+ - Shell Sort
+ - Counting Sort
